@@ -37,6 +37,10 @@ body {
   margin: auto;
 }
 
+.profile-detail h4 {
+  color: #808080;
+}
+
 .profile-btn-back {
   display: flex;
   align-items: center;
